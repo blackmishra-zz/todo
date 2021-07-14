@@ -1,4 +1,5 @@
-# todo
+# Todo APP
+Heroku link: https://todo-blackmishra.herokuapp.com/home
 Simle Todo App with Python Flask
 
 
